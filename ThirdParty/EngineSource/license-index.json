@@ -1,0 +1,232 @@
+[
+  {
+    "component": "x264",
+    "file": "licenses/x264/COPYING",
+    "sha256": "32b1062f7da84967e7019d01ab805935caa7ab7321a7ced0e30ebe75e5df1670"
+  },
+  {
+    "component": "cmake",
+    "file": "licenses/cmake/CMake.app/Contents/doc/cmake/Copyright.txt",
+    "sha256": "0676e30827684487aa0ea8f72f01e9460a6320fa34a2888df0ad1dd3e8a06eb8"
+  },
+  {
+    "component": "cmake",
+    "file": "licenses/cmake/CMake.app/Contents/doc/cmake/cmcppdap/NOTICE",
+    "sha256": "3103ac74433b12f1728cc0e09babe67620c5e3ab15d79d222b49d5d226681a6c"
+  },
+  {
+    "component": "cmake",
+    "file": "licenses/cmake/CMake.app/Contents/doc/cmake/cmlibarchive/COPYING",
+    "sha256": "b2cdf763345de2de34cebf54394df3c61a105c3b71288603c251f2fa638200ba"
+  },
+  {
+    "component": "cmake",
+    "file": "licenses/cmake/CMake.app/Contents/doc/cmake/cmliblzma/COPYING",
+    "sha256": "bcb02973ef6e87ea73d331b3a80df7748407f17efdb784b61b47e0e610d3bb5c"
+  },
+  {
+    "component": "cmake",
+    "file": "licenses/cmake/CMake.app/Contents/doc/cmake/cmlibrhash/COPYING",
+    "sha256": "953e55838353335148c90b5a38a4894292680b1d4c37228ffddddbf18ce54bf5"
+  },
+  {
+    "component": "cmake",
+    "file": "licenses/cmake/CMake.app/Contents/doc/cmake/cmlibuv/LICENSE",
+    "sha256": "95b8b163c60d17cfce3cef61a2d8a9cf70137502c8fb5f3d93cd2fc529fa98c8"
+  },
+  {
+    "component": "cmake",
+    "file": "licenses/cmake/CMake.app/Contents/doc/cmake/cmsys/Copyright.txt",
+    "sha256": "7aa92ae0b86f73f81947d177639556fe7f8ea42a74762ecdf563e3daf7106a40"
+  },
+  {
+    "component": "cmake",
+    "file": "licenses/cmake/CMake.app/Contents/doc/cmake/cmzstd/LICENSE",
+    "sha256": "7055266497633c9025b777c78eb7235af13922117480ed5c674677adc381c9d8"
+  },
+  {
+    "component": "pkgconf",
+    "file": "licenses/pkgconf/COPYING",
+    "sha256": "07ee94b50a41ee3fc4e13a9b9c60b26fc28488494c465639f7e5f07a3952ec04"
+  },
+  {
+    "component": "ffmpeg",
+    "file": "licenses/ffmpeg/COPYING.GPLv2",
+    "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+  },
+  {
+    "component": "ffmpeg",
+    "file": "licenses/ffmpeg/COPYING.GPLv3",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "component": "ffmpeg",
+    "file": "licenses/ffmpeg/COPYING.LGPLv2.1",
+    "sha256": "246041b6ecf9bc32d718a62c57877c78b5eb397b6467e74ed7ae2626ab189c30"
+  },
+  {
+    "component": "ffmpeg",
+    "file": "licenses/ffmpeg/COPYING.LGPLv3",
+    "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+  },
+  {
+    "component": "ffmpeg",
+    "file": "licenses/ffmpeg/LICENSE.md",
+    "sha256": "2e1d16c72fd74e12063776371da757322f8b77589386532f4fd8634bde7de1af"
+  },
+  {
+    "component": "ffmpeg",
+    "file": "licenses/ffmpeg/tests/checkasm/ext/LICENSE",
+    "sha256": "a2dc8194271e5989c0622531c645a7b41af5da92eeb2531e4f2a3ec31023bc52"
+  },
+  {
+    "component": "ffmpeg",
+    "file": "licenses/ffmpeg/tests/checkasm/ext/src/html_data/LICENSE",
+    "sha256": "0fd2c601fb2ead2add56807b7e32664da8d973b9835a422464f210bfea997a52"
+  },
+  {
+    "component": "x265",
+    "file": "licenses/x265/COPYING",
+    "sha256": "d8afb1bcc7a2cfc603683b168d6987ef0a48e59e0da3693bf55c5d33b67e2b49"
+  },
+  {
+    "component": "x265",
+    "file": "licenses/x265/source/dynamicHDR10/LICENSE.txt",
+    "sha256": "47f15d63e82eb8a4de6e46471d5f96cf6d052fd5355944a002c3157880248b69"
+  },
+  {
+    "component": "x265",
+    "file": "licenses/x265/source/dynamicHDR10/json11/LICENSE.txt",
+    "sha256": "950e288a2548cb33f6a90d23958806b0803f510ab17c600d661619a73ae3a6c8"
+  },
+  {
+    "component": "vpx",
+    "file": "licenses/vpx/LICENSE",
+    "sha256": "8267348d5af1262c11d1a08de2f5afc77457755f1ac658627dd9acf71011d615"
+  },
+  {
+    "component": "vpx",
+    "file": "licenses/vpx/PATENTS",
+    "sha256": "cc3273e0694ea5896145e0677699b53471b03ea43021ddc50e7923fbb9f5023c"
+  },
+  {
+    "component": "vpx",
+    "file": "licenses/vpx/third_party/googletest/src/LICENSE",
+    "sha256": "9702de7e4117a8e2b20dafab11ffda58c198aede066406496bef670d40a22138"
+  },
+  {
+    "component": "vpx",
+    "file": "licenses/vpx/third_party/libwebm/LICENSE.TXT",
+    "sha256": "5aec868f669e384a22372a4e8a1a6cd7d44c64cd451f960ca69cc170d1e13acf"
+  },
+  {
+    "component": "vpx",
+    "file": "licenses/vpx/third_party/libwebm/PATENTS.TXT",
+    "sha256": "cc3273e0694ea5896145e0677699b53471b03ea43021ddc50e7923fbb9f5023c"
+  },
+  {
+    "component": "vpx",
+    "file": "licenses/vpx/third_party/libyuv/LICENSE",
+    "sha256": "2b2cc1180c7e6988328ad2033b04b80117419db9c4c584918bbb3cfec7e9364f"
+  },
+  {
+    "component": "vpx",
+    "file": "licenses/vpx/third_party/x86inc/LICENSE",
+    "sha256": "719d8fa235f2068e0ae6d6a7dceb0a7720d7840f0f0ebed29957989e6ded3cd8"
+  },
+  {
+    "component": "webp",
+    "file": "licenses/webp/COPYING",
+    "sha256": "5aec868f669e384a22372a4e8a1a6cd7d44c64cd451f960ca69cc170d1e13acf"
+  },
+  {
+    "component": "webp",
+    "file": "licenses/webp/PATENTS",
+    "sha256": "cc3273e0694ea5896145e0677699b53471b03ea43021ddc50e7923fbb9f5023c"
+  },
+  {
+    "component": "opus",
+    "file": "licenses/opus/COPYING",
+    "sha256": "01e1167d54a096d123cf6dfbbeb19587278845c6481d2d66d545669846079551"
+  },
+  {
+    "component": "lame",
+    "file": "licenses/lame/COPYING",
+    "sha256": "bfe4a52dc4645385f356a8e83cc54216a293e3b6f1cb4f79f5fc0277abf937fd"
+  },
+  {
+    "component": "lame",
+    "file": "licenses/lame/LICENSE",
+    "sha256": "7a40cbd8818c57e5285e83c772a459a996d1662c824a879836b97b473c07cae4"
+  },
+  {
+    "component": "lame",
+    "file": "licenses/lame/debian/copyright",
+    "sha256": "1f27f9f698183275bd615c1140b7bf6e498750e9280597c6eb39790e54ae809b"
+  },
+  {
+    "component": "ogg",
+    "file": "licenses/ogg/COPYING",
+    "sha256": "d2ab5758336489da61c12cc5bb757da5339c4ae9001f9bb0562b4370249af814"
+  },
+  {
+    "component": "vorbis",
+    "file": "licenses/vorbis/COPYING",
+    "sha256": "ec1815db59fcd302846df949d7424876cb2e2dc5ed1606c5fb0b36787b1cf43a"
+  },
+  {
+    "component": "aom",
+    "file": "licenses/aom/LICENSE",
+    "sha256": "4764a286d8b2faeaf42f4418e7d7a28d58fc8fd4d00a3d0a7f44b0a4099de7f2"
+  },
+  {
+    "component": "aom",
+    "file": "licenses/aom/PATENTS",
+    "sha256": "661fb8e504744e95587b556b94a58343448300606a41bea8c7a9b97125696e61"
+  },
+  {
+    "component": "aom",
+    "file": "licenses/aom/third_party/SVT-AV1/LICENSE.md",
+    "sha256": "0acc2fcb27472bdc9aaf8b71f37055bbdac4f54671b7d922f241bd7fcd0dd3e6"
+  },
+  {
+    "component": "aom",
+    "file": "licenses/aom/third_party/SVT-AV1/PATENTS.md",
+    "sha256": "20678ab10402659106dc4c147c97b2a6e94b5c0695415e15a8f195ebc3547922"
+  },
+  {
+    "component": "aom",
+    "file": "licenses/aom/third_party/fastfeat/LICENSE",
+    "sha256": "043dcfd059386f9facd376351b2bd79325778744aa442177390cdfcca54babed"
+  },
+  {
+    "component": "aom",
+    "file": "licenses/aom/third_party/googletest/src/LICENSE",
+    "sha256": "9702de7e4117a8e2b20dafab11ffda58c198aede066406496bef670d40a22138"
+  },
+  {
+    "component": "aom",
+    "file": "licenses/aom/third_party/libwebm/LICENSE.TXT",
+    "sha256": "5aec868f669e384a22372a4e8a1a6cd7d44c64cd451f960ca69cc170d1e13acf"
+  },
+  {
+    "component": "aom",
+    "file": "licenses/aom/third_party/libwebm/PATENTS.TXT",
+    "sha256": "cc3273e0694ea5896145e0677699b53471b03ea43021ddc50e7923fbb9f5023c"
+  },
+  {
+    "component": "aom",
+    "file": "licenses/aom/third_party/libyuv/LICENSE",
+    "sha256": "2b2cc1180c7e6988328ad2033b04b80117419db9c4c584918bbb3cfec7e9364f"
+  },
+  {
+    "component": "aom",
+    "file": "licenses/aom/third_party/vector/LICENSE",
+    "sha256": "ff6c857ce2708e87701323078aef115c1872a1f80a9649f86dc899b48083bc60"
+  },
+  {
+    "component": "aom",
+    "file": "licenses/aom/third_party/x86inc/LICENSE",
+    "sha256": "719d8fa235f2068e0ae6d6a7dceb0a7720d7840f0f0ebed29957989e6ded3cd8"
+  }
+]

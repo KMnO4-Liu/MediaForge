@@ -1,0 +1,14 @@
+.build/
+.swiftpm/
+dist/
+.tools/
+.DS_Store
+
+# Machine-specific engine build records and legacy regression inputs.
+/ThirdParty/LegacyPrebuilt/
+/ThirdParty/EngineSource/build-configurations/
+/ThirdParty/EngineSource/build-commands.json
+/ThirdParty/EngineSource/build-environment.json
+/ThirdParty/EngineSource/ff*-linkage.txt
+/ThirdParty/EngineSource/ff*-license-output.txt
+/ThirdParty/EngineSource/ff*-version.txt

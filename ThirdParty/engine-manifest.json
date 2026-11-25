@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "platform": "Darwin",
+  "architecture": "arm64",
+  "distribution_status": "development-only; complete Corresponding Source not obtained; not cleared for public distribution",
+  "tools": {
+    "ffmpeg": {
+      "version": "9.0",
+      "url": "https://files.pythonhosted.org/packages/2b/47/9f9b654f853598bae0850fa22bba168103e45d31b5a2a893ed474f28d54a/imageio_ffmpeg-0.8.1-py3-none-macosx_12_0_arm64.whl",
+      "archive_sha256": "5636d691e36e5274b13fe38182b1f627b2e35dcecc63944012c2470f9484fc45",
+      "member": "imageio_ffmpeg/binaries/ffmpeg-macos-aarch64-v9.0",
+      "binary_sha256": "591260c945d0eef150e3bf82b0ef988bd36a9cecc18ff05d6679617159f0a95e",
+      "provenance": "imageio-ffmpeg 0.8.1 PyPI wheel; underlying OSXExperts FFmpeg 9.0",
+      "upstream_url": "https://www.osxexperts.net/ffmpeg9arm.zip",
+      "upstream_archive_sha256": "d0c06c5c68ce48af3143b262f7a9118a7c9f67de1e237fcc24ffb14df9c67af9",
+      "verification": "Wheel SHA256 from PyPI; binary hash also matches imageio v0.8.1 tools/ffmpeg-sources.json; no publisher signature verified"
+    },
+    "ffprobe": {
+      "version": "9.1",
+      "url": "https://www.osxexperts.net/ffprobe91arm.zip",
+      "archive_sha256": "32e8c86f5373dacdfddb30724342b11ef07dfdbfaa2f8062912e8d719f979c7e",
+      "member": "ffprobe",
+      "binary_sha256": "a663dbfafcd144f441834bc4af50077ccb969b635775612e5eddb6574f2caed0",
+      "provenance": "OSXExperts Apple Silicon FFprobe 9.1; same upstream distributor, NOT the exact 9.0 FFmpeg build",
+      "verification": "Binary SHA256 published at https://www.osxexperts.net/ on 2026-11-24; archive hash recorded locally after checking that binary hash; no publisher signature verified"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "platform": "Darwin",
+  "architecture": "arm64",
+  "distribution_status": "Source-built GPL-3.0-or-later engine; distribute with the matching engine-source archive and notices. Not a legal or patent clearance certification.",
+  "tools": {
+    "ffmpeg": {
+      "version": "9.0",
+      "binary_sha256": "b1d807f8259dbc5e5dddf5aec6e23560a7fd1c7176aeb78932f9d71774851803",
+      "provenance": "Built locally from the pinned complete source inputs and build-engine.py recipe",
+      "source_manifest_sha256": "41677df724b9ca45e831198fea93c97b64029751d47a42a72ce777ed39d1b6ea",
+      "dependencies": [
+        "/System/Library/Frameworks/AudioToolbox.framework/Versions/A/AudioToolbox",
+        "/System/Library/Frameworks/CoreAudio.framework/Versions/A/CoreAudio",
+        "/usr/lib/libSystem.B.dylib",
+        "/usr/lib/libz.1.dylib",
+        "/System/Library/Frameworks/VideoToolbox.framework/Versions/A/VideoToolbox",
+        "/System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation",
+        "/System/Library/Frameworks/CoreMedia.framework/Versions/A/CoreMedia",
+        "/System/Library/Frameworks/CoreVideo.framework/Versions/A/CoreVideo",
+        "/System/Library/Frameworks/CoreServices.framework/Versions/A/CoreServices",
+        "/usr/lib/libbz2.1.0.dylib",
+        "/usr/lib/libc++.1.dylib",
+        "/usr/lib/libiconv.2.dylib"
+      ]
+    },
+    "ffprobe": {
+      "version": "9.0",
+      "binary_sha256": "9e7dbfcb4350579461c903c3379033af5e97892afcfa1f8a13379015ce13dffe",
+      "provenance": "Built locally from the pinned complete source inputs and build-engine.py recipe",
+      "source_manifest_sha256": "41677df724b9ca45e831198fea93c97b64029751d47a42a72ce777ed39d1b6ea",
+      "dependencies": [
+        "/System/Library/Frameworks/AudioToolbox.framework/Versions/A/AudioToolbox",
+        "/System/Library/Frameworks/CoreAudio.framework/Versions/A/CoreAudio",
+        "/usr/lib/libSystem.B.dylib",
+        "/usr/lib/libz.1.dylib",
+        "/System/Library/Frameworks/VideoToolbox.framework/Versions/A/VideoToolbox",
+        "/System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation",
+        "/System/Library/Frameworks/CoreMedia.framework/Versions/A/CoreMedia",
+        "/System/Library/Frameworks/CoreVideo.framework/Versions/A/CoreVideo",
+        "/System/Library/Frameworks/CoreServices.framework/Versions/A/CoreServices",
+        "/usr/lib/libbz2.1.0.dylib",
+        "/usr/lib/libc++.1.dylib",
+        "/usr/lib/libiconv.2.dylib"
+      ]
+    }
+  }
+}

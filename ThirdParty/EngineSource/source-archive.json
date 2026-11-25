@@ -1,0 +1,11 @@
+{
+  "filename": "MediaForge-engine-source-9.0.tar.gz",
+  "sha256": "1b4d15c7935089f2890881e2caccaeda67898449c842a5463112470a827be10d",
+  "size": 41785973,
+  "source_manifest_sha256": "41677df724b9ca45e831198fea93c97b64029751d47a42a72ce777ed39d1b6ea",
+  "recipe_sha256": "8fe49abfacdb1e5dae574e3865e0b4d26fa30a379aa72cae91e320e4f08a49ee",
+  "binary_sha256": {
+    "ffmpeg": "b1d807f8259dbc5e5dddf5aec6e23560a7fd1c7176aeb78932f9d71774851803",
+    "ffprobe": "9e7dbfcb4350579461c903c3379033af5e97892afcfa1f8a13379015ce13dffe"
+  }
+}
